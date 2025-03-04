@@ -96,7 +96,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 ## Contributors
 
-- **[Your Name]** - Data Analysis, Model Implementation, Documentation
+- **Dawood M D** - Data Analysis, Model Implementation, Documentation
 
 Feel free to contribute by submitting issues or pull requests! 🚢
 
